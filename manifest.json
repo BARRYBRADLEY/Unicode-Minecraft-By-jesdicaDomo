@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Unicode-TH",
+        "name": "teddyz9",
+        "uuid": "4ea5f1f2-0df9-4b59-bc82-512791e98c50",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description":  "Unicode-TH",
+            "type": "resources",
+            "uuid": "f84d5892-d8a0-42e9-bee5-644d4508fa0c",
+            "version": [1, 0, 0]
+        }
+    ]
+}
