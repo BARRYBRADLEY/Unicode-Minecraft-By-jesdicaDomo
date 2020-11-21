@@ -3,17 +3,17 @@
 
  #List Unicode
 
-|               Name               |   Platform   | Character | Unicode |                     In game                    |
+|               Name               |   Platform   | Character |                    In game                    |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
-|             A Button             |     X-Box    |          |  U+E000 |            ![](./Unicode-Bedrock-New/images/xbox-a.png)            |
-|             B Button             |     X-Box    |          |  U+E001 |            ![](./images/xbox-b.png)            |
-|             X Button             |     X-Box    |          |  U+E002 |            ![](./images/xbox-x.png)            |
-|             Y Button             |     X-Box    |          |  U+E003 |            ![](./images/xbox-y.png)            |
-|             LB Button            |     X-Box    |          |  U+E004 |            ![](./images/xbox-lb.png)           |
-|             RB Button            |     X-Box    |          |  U+E005 |            ![](./images/xbox-rb.png)           |
-|             LT Button            |     X-Box    |          |  U+E006 |            ![](./images/xbox-lt.png)           |
-|             RT Button            |     X-Box    |          |  U+E007 |            ![](./images/xbox-rt.png)           |
-|           Select Button          |     X-Box    |          |  U+E008 |          ![](./images/xbox-select.png)         |
+|             A Button             |     X-Box    |          |            ![](.//images/xbox-a.png)            |
+|             B Button             |     X-Box    |          |            ![](./images/xbox-b.png)            |
+|             X Button             |     X-Box    |          |            ![](./images/xbox-x.png)            |
+|             Y Button             |     X-Box    |          |            ![](./images/xbox-y.png)            |
+|             LB Button            |     X-Box    |          |            ![](./images/xbox-lb.png)           |
+|             RB Button            |     X-Box    |          |            ![](./images/xbox-rb.png)           |
+|             LT Button            |     X-Box    |          |            ![](./images/xbox-lt.png)           |
+|             RT Button            |     X-Box    |          |            ![](./images/xbox-rt.png)           |
+|           Select Button          |     X-Box    |          |          ![](./images/xbox-select.png)         |
 |           Start Button           |     X-Box    |          |  U+E009 |          ![](./images/xbox-start.png)          |
 |         Left Stick Button        |     X-Box    |          |  U+E00A |            ![](./images/xbox-ls.png)           |
 |        Right Stick Button        |     X-Box    |          |  U+E00B |            ![](./images/xbox-rs.png)           |
