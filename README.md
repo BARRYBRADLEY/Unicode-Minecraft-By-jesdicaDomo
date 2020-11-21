@@ -5,7 +5,7 @@
 
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
-|             A Button             |     X-Box    |          |  U+E000 |            ![](./images/xbox-a.png)            |
+|             A Button             |     X-Box    |          |  U+E000 |            ![](./Unicode-Bedrock-New/images/xbox-a.png)            |
 |             B Button             |     X-Box    |          |  U+E001 |            ![](./images/xbox-b.png)            |
 |             X Button             |     X-Box    |          |  U+E002 |            ![](./images/xbox-x.png)            |
 |             Y Button             |     X-Box    |          |  U+E003 |            ![](./images/xbox-y.png)            |
