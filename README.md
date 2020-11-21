@@ -8,7 +8,7 @@
 |             U1                   |     All      |          |  -      |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://user-images.githubusercontent.com/12781303/99870260-63c0c080-2c04-11eb-8429-793f601801d4.jpeg)|
 |             U                   |     All      |          |  -      |![75EE9994-0F79-466E-8BA5-9CE0FB6B69EE_4_5005_c](https://user-images.githubusercontent.com/12781303/99870440-7b4c7900-2c05-11eb-9820-9ccad88b53d0.jpeg)|
 |             U                   |     All      |          |  -      |![2EB16FF6-10AC-4054-B588-36ACBBDB431B_4_5005_c](https://user-images.githubusercontent.com/12781303/99870455-8ef7df80-2c05-11eb-910e-6ad87cc7e964.jpeg)|
-|             U                   |     All      |          |  -      ||
+|             U                   |     All      |          |  -      |![45B8D49E-A8C2-4DA1-BACE-7318D7DF5613_4_5005_c](https://user-images.githubusercontent.com/12781303/99870549-6fad8200-2c06-11eb-813f-3532f7d6540d.jpeg)|
 |             U                   |     All      |          |  -      ||
 |             U                   |     All      |          |  -      ||
 |             U                   |     All      |          |  -      ||
