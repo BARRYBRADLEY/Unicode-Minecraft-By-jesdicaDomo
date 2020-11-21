@@ -1,6 +1,9 @@
 # Unicode-Bedrock-New
  Unicode ใหม่สำหรับ Bedrock ลบเครดิต งดอัพเดทงดแจก มีไรใหม่ๆ ไม่แจกละ งอล ชิ ><
 
+เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.
+https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber
+
  #List Unicode
 
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
